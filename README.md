@@ -42,7 +42,8 @@ This project is a RESTful API for an e-commerce application, built with **Node.j
    JWT_REFRESH_SECRET=your_jwt_secret_refresh
    ```
 
-4. run the server
+4. run the server:
+
    🔄 Run the development server:
 
    ```bash
@@ -67,8 +68,10 @@ This project is a RESTful API for an e-commerce application, built with **Node.j
 
    Runs the app from the compiled JavaScript files (e.g. for deployment).
 
-🧪 Testing
+## 🧪 Testing
+
 Use Postman or a similar tool to test the API endpoints.
 
-🤝 Contributing
+## 🤝 Contributing
+
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
