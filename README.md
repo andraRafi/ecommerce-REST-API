@@ -35,10 +35,12 @@ This project is a RESTful API for an e-commerce application, built with **Node.j
 
    Create a .env file in the root directory and add the following:
 
-   `PORT=5000`
-   `CONNECTION_STRING=your_mongodb_connection_string`
-   `JWT_SECRET=your_jwt_secret`
-   `JWT_REFRESH_SECRET=your_jwt_secret_refresh`
+   ```
+   PORT=5000
+   CONNECTION_STRING=your_mongodb_connection_string
+   JWT_SECRET=your_jwt_secret`
+   JWT_REFRESH_SECRET=your_jwt_secret_refresh
+   ```
 
 4. run the server
    🔄 Run the development server:
